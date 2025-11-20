@@ -8,10 +8,10 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         /*
-         * mpla
-         * mpla
-         * mpla
+         * bla
+         * bla
+         * bla
          */
-        System.out.println("Hello World!"); // Prints hello world
+        System.out.println("Hello Git World!"); // Prints hello git world
     }
 }
